@@ -1,0 +1,18 @@
+785.64
+Other;19.74;Sensodyne Pronamel Toothpaste
+Other;10.00;Chick-fil-A $10 Gift Card
+Other;3.50;Debt
+Food;35.43;Almond 250g
+Food;3.50;Milk
+Food;5.99;Red Fuji Apple
+Food;3.99;Eggs
+Food;25.98;FIJI Natural Artesian Water
+Food;8.54;Hershey's milk chocolate bars
+Food;1.00;Great Value Broccoli Florets
+Food;6.28;Keystone Ground Bee
+Clothes;8.61;Gildan LT
+Clothes;13.00;Men's Dual Defense Crew Socks 12 Pairs
+Clothes;19.97;Wrangler Men's Stretch Cargo Pant
+Entertainment;10.10;LEGO DUPLO Town Farm Animals
+Entertainment;8.73;Cinema
+Entertainment;30.00;Skate rental

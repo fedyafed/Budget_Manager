@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Budget Manager/task/build/
+/Budget Manager/task/out/
+/Budget Manager/task/out/production/classes/
+/Topics/Command-line arguments/Get the game mode/out/
+/Topics/Command-line arguments/Get the game mode/out/production/classes/
